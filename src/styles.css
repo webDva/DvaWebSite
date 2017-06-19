@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+.firstSection {
+    background-color: #9d00ff;
+    color: white;
+    font-size: 2em;
+    margin-bottom: 25px;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.pitch {
+    padding: 30px;
+    display: block;
+    margin: auto;
+}
+
+#logo {   
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+}
