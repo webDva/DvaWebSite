@@ -17,6 +17,6 @@ import { PortfolioGridListComponent } from './portfolio-grid-list/portfolio-grid
     HttpModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [PortfolioGridListComponent]
 })
 export class AppModule { }
