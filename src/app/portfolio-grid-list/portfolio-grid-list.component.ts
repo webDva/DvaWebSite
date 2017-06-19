@@ -11,7 +11,14 @@ export class PortfolioGridListComponent implements OnInit {
         'I Hate Coffee!: だめです！',
         'Super Simple and Small 2D Platformer Game',
         'Kantum Leap-a',
-        'Pantsu Breakout Game'
+        'Pantsu Breakout Game',
+        'SSSSSSSSSSSSSSSS',
+        'GGGGGGGGGGGGGGGGGGGGO',
+        'あいうえお',
+        'かきくけこ',
+        'さしすせそ',
+        'たちつてと',
+        'なにぬねの'
     ];
 
     constructor() {}
