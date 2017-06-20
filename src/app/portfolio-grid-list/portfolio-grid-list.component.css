@@ -1,8 +1,8 @@
 .grid-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 50% 50%;
     grid-auto-rows: minmax(1fr, max-content);
-    grid-gap: 10px 10px;
+    grid-gap: 10px 15px;
 
     overflow: hidden;
     width: 90%;
@@ -15,7 +15,6 @@
 .box {
     background-color: #444;
     color: #fff;
-    border-radius: 5px;
     padding: 20px;
     font-size: 1em;
     font-family: Palatino, Verdana, Arial;
