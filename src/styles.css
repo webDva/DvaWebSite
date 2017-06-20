@@ -9,7 +9,8 @@ body, html {
 .firstSection {
     background-color: #9d00ff;
     color: white;
-    font-size: 2em;
+    font-size: 3em;
+    font-family: Helvetica, Palatino, Verdana, Arial;
     margin-bottom: 25px;
     width: 100%;
 }
