@@ -7,10 +7,11 @@ body, html {
 }
 
 .firstSection {
-    background-color: #9d00ff;
+    background-color: #AD87EA;
     color: white;
     font-size: 3em;
     font-family: Helvetica, Palatino, Verdana, Arial;
+    font-weight: 700;
     margin-bottom: 25px;
     width: 100%;
 }
