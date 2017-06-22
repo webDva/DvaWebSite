@@ -26,8 +26,16 @@
     font-family: Palatino, Verdana, Arial;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+.trackContainer:hover {
+    background-color: #efd6ff;
+}
+
 .box {
-    background: #7000b7;
+    /*background: #7000b7;*/
 }
 
 .projectName {
