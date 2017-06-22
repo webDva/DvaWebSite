@@ -8,17 +8,15 @@ import {Component, OnInit} from '@angular/core';
 export class PortfolioGridListComponent implements OnInit {
 
     projectsList = [
-        'I Hate Coffee!: だめです！',
-        'Super Simple and Small 2D Platformer Game',
-        'Kantum Leap-a',
-        'Pantsu Breakout Game',
-        'SSSSSSSSSSSSSSSS',
-        'GGGGGGGGGGGGGGGGGGGGO',
-        'あいうえお',
-        'かきくけこ',
-        'さしすせそ',
-        'たちつてと',
-        'なにぬねの'
+    /*
+     * name, image, description, link
+     */
+        {
+            name: 'I Hate Coffee!: だめです！',
+            image: './assets/i hate coffee logo.png',
+            description: 'My latest game about how much coffee sucks.',
+            link: 'https://windows146.github.io/I-Hate-Coffee-/public_html/'
+        }
     ];
 
     constructor() {}

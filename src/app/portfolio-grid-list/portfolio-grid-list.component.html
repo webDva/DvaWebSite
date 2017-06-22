@@ -1,5 +1,10 @@
 <div class="grid-container">
-    <div class="box" *ngFor="let project of projectsList">
-         {{ project }}
+    <div class="trackContainer" *ngFor="let project of projectsList">
+        <p class="projectName">{{project.name}}</p>
+        <div class="box">
+            <a href={{project.link}}>
+                <img src={{project.image}} alt="ん" style="width:100%; height:100%;"></a>
+        </div>
+        <br>{{project.description}}
     </div>
 </div>

@@ -18,10 +18,19 @@
     }
 }
 
-.box {
-    background-color: #444;
-    color: #fff;
+.trackContainer {
+    color: #7000b7;
     padding: 20px;
+    margin: 0 auto;
     font-size: 1em;
     font-family: Palatino, Verdana, Arial;
+}
+
+.box {
+    background: #7000b7;
+}
+
+.projectName {
+    text-align: center;
+    font-weight: bold;
 }
