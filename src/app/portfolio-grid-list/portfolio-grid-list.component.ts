@@ -14,14 +14,14 @@ export class PortfolioGridListComponent implements OnInit {
         {
             name: 'I Hate Coffee!: だめです！',
             image: './assets/i hate coffee logo.png',
-            description: 'My latest game, about how much coffee sucks.',
+            description: 'My latest game, showing my distaste for coffee.',
             link: 'https://webDva.github.io/I-Hate-Coffee-/public_html/'
         },
         
         {
             name: 'Super Simple and Small 2D Platformer Game',
             image: './assets/super simple platformer.PNG',
-            description: 'My first 2D platformer.',
+            description: 'My first 2D platformer. Runs slow on mobile devices, but at least you can play on an Xbox!',
             link: 'https://webDva.github.io/Super-Simple-and-Small-2D-Platformer-Game/public_html/index.html'
         },
         
