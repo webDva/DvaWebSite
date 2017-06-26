@@ -28,6 +28,12 @@ body, html {
     align-items: center;    
 }
 
+@media (max-width: 640px) {
+    .pitch {
+        font-size: 1.25em;
+    }
+}
+
 #logo {   
     display: block;
     margin: 50px auto;
