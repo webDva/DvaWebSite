@@ -57,3 +57,7 @@ body, html {
 .social-icon {
     padding: 0 12px;
 }
+
+.social-icon:hover {
+    opacity: 0.4;
+}
