@@ -37,9 +37,27 @@ body, html {
     }
 }
 
+@keyframes logoAnimation {
+    0% {width: 250px; height: 250px; transform: rotate(0deg);}
+    50% {width: 270px; height: 270px;}
+    70% {transform: rotate(10deg)}
+    100% {transform: rotate(-20deg)}
+}
+
+#logoContainer {
+    display: block;
+    max-height: 250px;
+}
+
 #logo {   
     display: block;
     margin: 50px auto;
+    animation-name: logoAnimation;
+    animation-duration: 1.9s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in;
 }
 
 #footer {
