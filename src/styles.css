@@ -54,8 +54,8 @@ body, html {
     margin: 50px auto;
     animation-name: logoAnimation;
     animation-duration: 1.9s;
-    animation-delay: 2s;
-    animation-iteration-count: infinite;
+    animation-delay: 4s;
+    animation-iteration-count: 4;
     animation-direction: alternate;
     animation-timing-function: ease-in;
 }
