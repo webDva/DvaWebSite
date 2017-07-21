@@ -13,14 +13,6 @@ body, html {
     height: calc(46vh + 2em);
 }
 
-#personality {
-    background-color: #7000b7; /* Really would like to use CSS variables! */
-    overflow: auto; /* So that the element div can grow with the content. */
-    height: auto; 
-    margin: 20px 0px;
-    padding: 20px;
-}
-
 .pitch {
     padding: 0px 40px;
     text-align: center;
@@ -55,7 +47,6 @@ body, html {
 #logoContainer {
     display: block;
     max-height: 250px;
-    margin: 10px 0px;
 }
 
 #logo {   
