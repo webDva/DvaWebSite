@@ -12,6 +12,13 @@ export class PortfolioGridListComponent implements OnInit {
      * name, image, description, link
      */
         {
+            name: 'Invert Binary Search Tree',
+            image: './assets/binarysearchtree.png',
+            description: 'To level up my data structures and algorithms skills, I started to practice the fundamentals of software engineering.',
+            link: 'https://github.com/webDva/Invert-Binary-Search-Tree'
+        },
+        
+        {
             name: 'I Hate Coffee!: だめです！',
             image: './assets/i hate coffee logo.png',
             description: 'My latest game, showing my distaste for coffee.',
