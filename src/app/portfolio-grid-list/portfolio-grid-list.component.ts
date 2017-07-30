@@ -14,7 +14,7 @@ export class PortfolioGridListComponent implements OnInit {
         {
             name: 'Invert Binary Search Tree',
             image: './assets/binarysearchtree.png',
-            description: 'To level up my data structures and algorithms skills, I started to practice the fundamentals of software engineering.',
+            description: 'To level up my data structures and algorithms skills, I started to practice the fundamentals of computer science.',
             link: 'https://github.com/webDva/Invert-Binary-Search-Tree'
         },
         
