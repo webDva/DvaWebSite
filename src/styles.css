@@ -13,7 +13,7 @@ body, html {
     height: calc(46vh + 2em);
 }
 
-.pitch {
+.paragraph-pitch {
     padding: 0px 40px;
     text-align: center;
     font-size: 1.5em;    
