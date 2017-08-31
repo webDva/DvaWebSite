@@ -4,7 +4,7 @@
 
 Use this to build, D.va:
 
-`ng build --prod --output-path "[TEMPORARY DIRECTORY]" --base-href "https://webdva.github.io/games"`
+`ng build --prod --output-path "[TEMPORARY DIRECTORY]" --base-href "https://webdva.github.io/games/"`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
 
