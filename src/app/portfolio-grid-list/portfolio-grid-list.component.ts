@@ -10,14 +10,7 @@ export class PortfolioGridListComponent implements OnInit {
     projectsList = [
     /*
      * name, image, description, link
-     */
-        {
-            name: 'Invert Binary Search Tree',
-            image: './assets/binarysearchtree.png',
-            description: 'To level up my data structures and algorithms skills, I started to practice the fundamentals of computer science.',
-            link: 'https://github.com/webDva/Invert-Binary-Search-Tree'
-        },
-        
+     */        
         {
             name: 'I Hate Coffee!: だめです！',
             image: './assets/i hate coffee logo.png',
@@ -37,13 +30,6 @@ export class PortfolioGridListComponent implements OnInit {
             image: './assets/pantsu.png',
             description: 'My first web game made with Javascript. やった！',
             link: 'https://webDva.github.io/Pantsu-Breakout-Game/public_html/'
-        },
-        
-        {
-            name: 'Pans.ly',
-            image: './assets/pean-stack.png',
-            description: 'Not a game, but my first ever web development project, a URL shortener.',
-            link: 'https://github.com/webDva/Pans.ly'
         }
     ];
 
